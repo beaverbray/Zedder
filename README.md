@@ -1,9 +1,5 @@
 #Project Zedder
 
-Goals:
----
-- 
-
 File Structure:
 ---
 - Wrangling
