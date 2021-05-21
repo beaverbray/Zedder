@@ -1,5 +1,3 @@
-Project Zedder:
-
 File Structure:
 ---
 - Wrangling
