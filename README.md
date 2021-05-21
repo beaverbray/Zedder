@@ -1,4 +1,4 @@
-Project Zedder
+Project Zedder:
 
 File Structure:
 ---
