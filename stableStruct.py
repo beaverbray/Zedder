@@ -4,7 +4,7 @@ from getHorsey import query
 from pprint import pprint
 
 # JSON structure:
-	# getRaceResults 
+	# getRaceResults
 		# Edges
 			# cursor ??
 			# node = race information
@@ -37,5 +37,4 @@ def myprint(race):
         	# prints key and values
             pprint("{0} : {1}".format(k, v))
 
-
-
+breakpoint()
